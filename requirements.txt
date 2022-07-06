@@ -1,0 +1,11 @@
+dash
+dash_labs
+dash_bootstrap_components
+pandas
+plotly.express
+matplotlib
+numpy
+pickle-mixin
+statsmodels
+sklearn
+scikit-learn
